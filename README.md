@@ -1,8 +1,6 @@
 
 # C Programming Assignment
 
-(This is a converted Markdown version of your uploaded PDF.)
-
 ------------------------------------------------------------------------
 
 ## Q1. Hospital Patient Triage & Bed Allocation
