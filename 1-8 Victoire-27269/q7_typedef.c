@@ -25,3 +25,4 @@ int main() {
     printf("Final Fee: %.2f\n", p.baseFee);
     return 0;
 }
+ 
