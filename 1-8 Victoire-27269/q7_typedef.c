@@ -19,9 +19,9 @@ void applyFee(Payment *p, FeeStrategy fs) {
 }
 
 int main() {
-    Payment p = {"Alice", 100};
+    Payment p = {"Alice", 190};
     applyFee(&p, addTax);
 
     printf("Final Fee: %.2f\n", p.baseFee);
     return 0;
-}
+} 
